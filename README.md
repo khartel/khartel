@@ -31,7 +31,6 @@ const victor = {
   stack    : {
     frontend : ["React.js", "HTML5", "CSS3"],
     backend  : ["Node.js", "Express.js", "Django"],
-    mobile   : ["Flutter"],
     database : ["MongoDB", "SQL"],
     tools    : ["Git", "GitHub", "Postman", "VS Code"],
   },
@@ -55,7 +54,6 @@ const victor = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Databases & APIs**
 
