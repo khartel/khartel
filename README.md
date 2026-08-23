@@ -26,10 +26,9 @@ const victor = {
   name     : "Victor Arinze Eze",
   location : "Accra, Ghana 🇬🇭",
   degree   : "BSc Computer Science — Central University, Ghana",
-  cgpa     : "3.52 / 4.00 · Expected July 2026",
 
   stack    : {
-    frontend : ["React.js", "HTML5", "CSS3"],
+    frontend : ["React.js"],
     backend  : ["Node.js", "Express.js", "Django"],
     database : ["MongoDB", "SQL"],
     tools    : ["Git", "GitHub", "Postman", "VS Code"],
